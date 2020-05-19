@@ -1,0 +1,38 @@
+header {
+  padding-top: 75px;
+  text-align: center;
+
+}
+
+.headerLogo {
+  width:200px;
+  heigh:200px;
+}
+
+.heroPage {
+  padding-top: 50px;
+}
+
+.trackBox {
+  background-color:#f8f9fa;
+  text-align: center;
+  width:100%;
+  Height:350px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 3px;
+  border: solid 0.50px #17a2b8;
+  padding-top: 50px;
+  font-size:20px;
+
+}
+
+.heroVideo {
+  text-align: center;
+}
+
+.trackItems {
+  padding-top: 10px;
+  text-align: left;
+  color:gray;
+}
