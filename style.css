@@ -56,8 +56,9 @@ header {
 }
 
 .trackOptions {
-  text-align: center;
-  padding-top: 35px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+
 
 }
 
@@ -92,4 +93,8 @@ header {
 
   background-color: #F8F9FA;
   padding-bottom: 50px;
+}
+
+.cardPaddingBottom {
+  padding-bottom:15px;
 }
