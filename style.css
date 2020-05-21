@@ -75,3 +75,21 @@ header {
   height:200px
 
 }
+
+.bottomSection {
+  background-color:#026fba;
+  color:white;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+.bottomSection  a {
+  color:yellow;
+  text-decoration: none;
+}
+
+.cardSection {
+
+  background-color: #F8F9FA;
+  padding-bottom: 50px;
+}
