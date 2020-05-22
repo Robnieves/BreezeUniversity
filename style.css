@@ -1,5 +1,6 @@
 body {
   font-family: Jost;
+  background-color: #f8fbff;
 }
 
 header {
@@ -31,7 +32,7 @@ header {
 }
 
 .trackBox {
-  background-color:#f8f9fa;
+  background-color:#f8fbff;
   text-align: center;
   width:100%;
   Height:350px;
